@@ -1,1 +1,2 @@
 https://www.c-sharpcorner.com/UploadFile/2b481f/retrieve-data-from-database-in-Asp-Net-web-api/
+https://tutorialslink.com/Articles/How-to-retrieve-data-from-database-in-Aspnet-web-API/20
